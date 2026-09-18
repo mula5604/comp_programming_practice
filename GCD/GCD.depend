@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1789730739 source:c:\msys64\ucrt64\comp_pro\gcd\gcd.cpp
+	<iostream>
+
