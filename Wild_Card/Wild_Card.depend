@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1789821421 source:c:\msys64\ucrt64\comp_pro\wild_card\main.cpp
+	<iostream>
+	<string>
+

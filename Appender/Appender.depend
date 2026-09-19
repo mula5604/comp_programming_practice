@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1789820645 source:c:\msys64\ucrt64\comp_pro\appender\main.cpp
+	<iostream>
+	<string>
+
