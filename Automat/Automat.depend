@@ -1,5 +1,7 @@
 # depslib dependency file v1.0
-1789938522 source:c:\msys64\ucrt64\comp_pro\automat\main.cpp
+1790025331 source:c:\msys64\ucrt64\comp_pro\automat\main.cpp
 	<iostream>
 	<vector>
+	<cmath>
+	<algorithm>
 
