@@ -2,44 +2,54 @@
 #include <string>
 #include <algorithm>
 
-int main()
-{
-    int t{};
-    std::cin >> t;
+int one_count(std::string s, int n){
+    int c{};
 
-    for (int i{}; i < t; i++){
+    for (int i{}; i < n; i++){
+        if (s[i] == '1'){
+            c++;
+        }
+    }
+
+    return c;
+}
+
+int main(){
+
+    int t;
+    std::cin>>t;
+
+    for (int i{};i < t; i++){
         int n{};
         std::string s{};
+        std::cin>>n;
+        std::cin>>s;
 
-        std::cin >> n;
-        std::cin >> s;
-
-        int count1{};
-        int count2{};
-
-        bool found_one{};
-
-        for (int j{}; j < n; j++){
-            if (s[j] == '1'){
-                found_one = true;
-            }
-            else if (found_one){
-                count1++;
-            }
+        int c = one_count(s,n);
+        if (s[0] == '1'){
+            std::cout<<n-c<<"\n";
+            continue;
         }
 
-        bool found_zero{};
+        int total_zero = n - c;
+        int left_one{};
+        int answer = n;
 
-        for (int j{n - 1}; j >= 0; j--){
-            if (s[j] == '0'){
-                count2++;
-                found_zero = true;
+        for (int i{};i < n; i++){
+            if (s[i] == '0'){
+                total_zero--;
             }
-            else if (found_zero){
-                count2++;
+            else {
+                left_one++;
             }
+
+            answer = std::min(answer,left_one + total_zero);
         }
+    std::cout<<answer<<"\n";
 
-        std::cout << std::min(count1, count2) << '\n';
     }
+
+    return 0;
 }
+
+
