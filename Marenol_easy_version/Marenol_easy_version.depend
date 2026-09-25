@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790351610 source:c:\msys64\ucrt64\comp_pro\marenol_easy_version\main.cpp
+	<iostream>
+	<string>
+	<utility>
+
