@@ -1,4 +1,5 @@
-https://codeforces.com/contest/2266 
-https://atcoder.jp/contests/abc476/tasks/abc476_d 
+https://codeforces.com/contest/2266 (did from a to c)
+https://atcoder.jp/contests/abc476/tasks (did from a to d)
 https://github.com/hhadzem/ks_inf_takm (bosnian)
 https://codeforces.com/problemset/problem/469/A
+https://codeforces.com/problemset/problem/2254/C1
