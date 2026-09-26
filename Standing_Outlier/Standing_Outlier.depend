@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1790426111 source:c:\msys64\ucrt64\comp_pro\standing_outlier\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<string>
+
