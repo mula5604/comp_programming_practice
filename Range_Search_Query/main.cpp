@@ -1,3 +1,5 @@
+//redo again solution was TLE
+
 #include <iostream>
 #include <string>
 #include <vector>
@@ -22,7 +24,7 @@ int main(){
         int l{}, r{};
         std::cin >> l >> r;
 
-        std::string temp = s.substr(l, r - l + 1);
+        std::string temp = s.substr(l-1, r - l + 1);
 
         if (temp.find(t) != std::string::npos) {
             answers.push_back("Yes");
