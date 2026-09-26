@@ -5,3 +5,5 @@ https://codeforces.com/problemset/problem/469/A
 https://codeforces.com/problemset/problem/2254/C1
 https://codeforces.com/contest/2254/problem/C2
 https://atcoder.jp/contests/abc477/tasks (from a to c)
+https://usaco.org/index.php?page=viewproblem2&cpid=891
+https://usaco.org/index.php?page=viewproblem2&cpid=891
