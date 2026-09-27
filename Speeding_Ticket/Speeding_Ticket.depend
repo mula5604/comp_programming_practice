@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1790545507 source:c:\msys64\ucrt64\comp_pro\speeding_ticket\main.cpp
+	<iostream>
+	<vector>
+
