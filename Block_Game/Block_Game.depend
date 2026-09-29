@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1790713672 source:c:\msys64\ucrt64\comp_pro\block_game\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<algorithm>
+

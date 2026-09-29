@@ -6,7 +6,6 @@ int main(){
     freopen("speeding.in", "r", stdin);
     freopen("speeding.out", "w", stdout);
 
-
     int n{};
     int m{};
 
