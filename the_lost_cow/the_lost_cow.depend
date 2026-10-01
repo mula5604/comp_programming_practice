@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1790885489 source:c:\msys64\ucrt64\comp_pro\the_lost_cow\main.cpp
+	<iostream>
+	<cstdlib>
+
