@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790966275 source:c:\msys64\ucrt64\comp_pro\cow_signal\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
