@@ -13,3 +13,4 @@ https://usaco.org/index.php?page=viewproblem2&cpid=735 (didnt simulate it used a
 https://usaco.org/index.php?page=viewproblem2&cpid=665 
 https://usaco.org/index.php?page=viewproblem2&cpid=760
 https://usaco.org/index.php?page=viewproblem2&cpid=856
+https://usaco.org/index.php?page=viewproblem2&cpid=917
