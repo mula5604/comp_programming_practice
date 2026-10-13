@@ -12,3 +12,4 @@ https://usaco.org/index.php?page=viewproblem2&cpid=664
 https://usaco.org/index.php?page=viewproblem2&cpid=735 (didnt simulate it used a math formula from editorial simulation did work this is just better)
 https://usaco.org/index.php?page=viewproblem2&cpid=665 
 https://usaco.org/index.php?page=viewproblem2&cpid=760
+https://usaco.org/index.php?page=viewproblem2&cpid=856
