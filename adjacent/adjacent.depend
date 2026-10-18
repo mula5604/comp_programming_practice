@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1792238656 source:c:\msys64\ucrt64\comp_pro\adjacent\main.cpp
+	<iostream>
+	<string>
+

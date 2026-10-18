@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1792241795 source:c:\msys64\ucrt64\comp_pro\invalid_vote\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<unordered_map>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1792268556 source:c:\msys64\ucrt64\comp_pro\circular_bean\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
