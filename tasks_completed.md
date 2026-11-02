@@ -23,5 +23,6 @@ https://usaco.org/index.php?page=viewproblem2&cpid=639
 https://usaco.org/index.php?page=viewproblem2&cpid=1060
 https://usaco.org/index.php?page=viewproblem2&cpid=963
 https://usaco.org/index.php?page=viewproblem2&cpid=593
-https://usaco.org/index.php?page=viewproblem2&cpid=1491 (solution works kinda but is O(n^2*k) so it results in TLE in some cases) also it is currently broken from unsuccesful attempt in fixing
-https://usaco.org/index.php?page=viewproblem2&cpid=736
+https://usaco.org/index.php?page=viewproblem2&cpid=1491 (solution works kinda but is O(n^2*k) so it results in TLE in some cases) also it is currently broken from unsuccesful attempt in fixing. Worth trying again.
+https://usaco.org/index.php?page=viewproblem2&cpid=736 
+https://codeforces.com/contest/895/problem/A

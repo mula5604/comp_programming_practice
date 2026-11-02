@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1793659206 source:c:\msys64\ucrt64\comp_pro\pizza_seperation\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+
