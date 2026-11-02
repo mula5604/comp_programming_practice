@@ -17,3 +17,4 @@ https://usaco.org/index.php?page=viewproblem2&cpid=917
 https://usaco.org/index.php?page=viewproblem2&cpid=616
 https://atcoder.jp/contests/abc480/tasks (from a to c)
 https://usaco.org/index.php?page=viewproblem2&cpid=831
+https://usaco.org/index.php?page=viewproblem2&cpid=593

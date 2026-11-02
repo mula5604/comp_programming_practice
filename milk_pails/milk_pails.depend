@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1793569597 source:c:\msys64\ucrt64\comp_pro\milk_pails\main.cpp
+	<iostream>
+	<algorithm>
+
