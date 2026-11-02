@@ -18,3 +18,10 @@ https://usaco.org/index.php?page=viewproblem2&cpid=616
 https://atcoder.jp/contests/abc480/tasks (from a to c)
 https://usaco.org/index.php?page=viewproblem2&cpid=831
 https://usaco.org/index.php?page=viewproblem2&cpid=593
+https://usaco.org/index.php?page=viewproblem2&cpid=615
+https://usaco.org/index.php?page=viewproblem2&cpid=639
+https://usaco.org/index.php?page=viewproblem2&cpid=1060
+https://usaco.org/index.php?page=viewproblem2&cpid=963
+https://usaco.org/index.php?page=viewproblem2&cpid=593
+https://usaco.org/index.php?page=viewproblem2&cpid=1491 (solution works kinda but is O(n^2*k) so it results in TLE in some cases) also it is currently broken from unsuccesful attempt in fixing
+https://usaco.org/index.php?page=viewproblem2&cpid=736
