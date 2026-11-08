@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1794168509 source:c:\msys64\ucrt64\comp_pro\why_did_the_cows_cross_the_road\main.cpp
+	<iostream>
+	<map>
+	<string>
+
