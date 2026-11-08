@@ -26,3 +26,7 @@ https://usaco.org/index.php?page=viewproblem2&cpid=593
 https://usaco.org/index.php?page=viewproblem2&cpid=1491 (solution works kinda but is O(n^2*k) so it results in TLE in some cases) also it is currently broken from unsuccesful attempt in fixing. Worth trying again.
 https://usaco.org/index.php?page=viewproblem2&cpid=736 
 https://codeforces.com/contest/895/problem/A
+https://codeforces.com/problemset/problem/255/B
+https://codeforces.com/contest/2284 (A)
+https://codeforces.com/contest/2283 (A AND B)
+https://atcoder.jp/contests/abc483/tasks (A AND B)
