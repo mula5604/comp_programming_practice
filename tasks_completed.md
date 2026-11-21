@@ -30,3 +30,9 @@ https://codeforces.com/problemset/problem/255/B
 https://codeforces.com/contest/2284 (A)
 https://codeforces.com/contest/2283 (A AND B)
 https://atcoder.jp/contests/abc483/tasks (A AND B)
+https://usaco.org/index.php?page=viewproblem2&cpid=712 
+https://atcoder.jp/contests/abc181/tasks/abc181_b
+https://codeforces.com/contest/1399/problem/B
+https://atcoder.jp/contests/abc128/tasks/abc128_b
+https://codeforces.com/gym/102961/problem/A
+https://codeforces.com/contest/954/problem/A

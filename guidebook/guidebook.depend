@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1795288565 source:c:\msys64\ucrt64\comp_pro\guidebook\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<set>
+	<vector>
+	<map>
+

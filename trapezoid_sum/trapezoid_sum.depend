@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1795281113 source:c:\msys64\ucrt64\comp_pro\trapezoid_sum\main.cpp
+	<iostream>
+
