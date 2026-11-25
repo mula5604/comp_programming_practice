@@ -36,3 +36,4 @@ https://codeforces.com/contest/1399/problem/B
 https://atcoder.jp/contests/abc128/tasks/abc128_b
 https://codeforces.com/gym/102961/problem/A
 https://codeforces.com/contest/954/problem/A
+https://codeforces.com/contest/1054/problem/C

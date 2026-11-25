@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1795559754 source:c:\msys64\ucrt64\comp_pro\candies_distribution\main.cpp
+	<iostream>
+	<vector>
+

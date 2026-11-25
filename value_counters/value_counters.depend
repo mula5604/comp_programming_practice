@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1795625148 source:c:\msys64\ucrt64\comp_pro\value_counters\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<vector>
+
