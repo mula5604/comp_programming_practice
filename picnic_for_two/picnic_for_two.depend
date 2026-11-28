@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1795793776 source:c:\msys64\ucrt64\comp_pro\picnic_for_two\main.cpp
+	<iostream>
+	<unordered_map>
+

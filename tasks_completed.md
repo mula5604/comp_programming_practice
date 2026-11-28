@@ -37,3 +37,6 @@ https://atcoder.jp/contests/abc128/tasks/abc128_b
 https://codeforces.com/gym/102961/problem/A
 https://codeforces.com/contest/954/problem/A
 https://codeforces.com/contest/1054/problem/C
+https://codeforces.com/contest/2290/problem/F (needed editorial this is pure math)
+https://usaco.org/index.php?page=viewproblem2&cpid=1469 (needed a lot of help from claude)
+https://codeforces.com/contest/2292 (a and b) (was pretty hard)
